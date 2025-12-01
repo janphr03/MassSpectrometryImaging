@@ -1,7 +1,7 @@
 # Gewebestrukturierung durch unüberwachtes Lernen auf MSI-Daten
 
 **Autor:innen:** Jan Herrmann, Alexander Maximow  
-**Thema:** Unüberwachtes Lernen (Clustering, PCA, NMF) auf Massenspektrometrie-Imaging (MSI) zur automatischen Gewebesegmentierung und als Basis für Lebensmittel­authentifizierung.
+**Thema:** Unüberwachtes Lernen (Clustering, PCA, NMF) auf Massenspektrometrie-Imaging (MSI) zur automatischen Gewebesegmentierung.
 
 ---
 
