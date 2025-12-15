@@ -45,8 +45,6 @@ Dieses Repository demonstriert einen vollständigen Workflow für MSI-Daten (`im
   - `191` = m/z-Kanäle (Lasereinstellungen / Spektralkanäle)
 - Typ: `float64`
 
-> **Hinweis:** Aus lizenzrechtlichen Gründen ist die Datei nicht Teil des Repos.  
-> Lege `ims_cube.mat` einfach ins Projektwurzelverzeichnis oder passe den Pfad im Code an.
 
 ---
 
