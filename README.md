@@ -54,12 +54,5 @@ Voraussetzung:
 - Python ≥ 3.9  
 - `pip` oder `conda`
 
-### 1. Repository klonen
-
-```bash
-git clone <DEIN_REPO_LINK>.git
-cd <DEIN_REPO_ORDNER>
-
-
 
 Diese README wurde mit Hilfe von KI erstellt
